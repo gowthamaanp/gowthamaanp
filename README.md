@@ -7,7 +7,7 @@ I am an MS scholar at IIT Madras focusing on Medical Image Analysis with Deep Le
 [![Twitter](https://img.shields.io/badge/-Follow-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/ravigowthamaan)
 [![Email](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gowthamaan.mail@gmail.com) 
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGowthamaan-P&label=visitors&countColor=%23263759)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FGowthamaan-P&label=views&countColor=%23263759)
 
 ![Gowthamaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gowthamaan-P&show_icons=true&theme=radical)
 
